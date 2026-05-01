@@ -46,6 +46,12 @@
 <br>
 
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anafdossants&theme=radical" />
+</div>
+
+<br>
+
+<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamillyvm&theme=radical" />
 </div>
 
