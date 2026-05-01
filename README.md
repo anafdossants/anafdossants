@@ -62,5 +62,8 @@
 </div>
 
 <br>
-
+<div align="center">
+  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=kamillyvm&style=flat-square&color=8f2c5b" /></p> 
+</div>
+<br>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=d0b0ee&section=footer"/>
