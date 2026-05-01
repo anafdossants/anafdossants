@@ -28,15 +28,13 @@
   <img src="https://img.shields.io/badge/Gmail-d0b0ee?style=for-the-badge&logo=gmail&logoColor=fff" />
 </a>
 
-  <a href="https://www.instagram.com/anaa01_17/">
-    <img src="https://img.shields.io/badge/Instagram-d0b0ee?style=for-the-badge&logo=instagram&logoColor=fff">
-  </a>
-  
-  <a href="https://www.linkedin.com/">
-    <img src="https://www.linkedin.com/in/ana-francisca-99021b407/">
-  </a>
-</div>
+<a href="https://www.instagram.com/anaa01_17/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-d0b0ee?style=for-the-badge&logo=instagram&logoColor=fff">
+</a>
 
+<a href="https://www.linkedin.com/in/ana-francisca-99021b407/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-d0b0ee?style=for-the-badge&logo=linkedin&logoColor=fff">
+</a>
   <br><br>
 
 <div align="center" style="display: inline_block">
