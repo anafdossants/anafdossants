@@ -39,8 +39,8 @@
 <br>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kamillyvm&show_icons=true&theme=radical&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamillyvm&layout=compact&theme=radical" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=anafdossants&show_icons=true&theme=radical&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anafdossants&layout=compact&theme=radical" />
 </div>
 
 <br>
