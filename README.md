@@ -33,13 +33,6 @@ esta aparecendo tres daqueles neociosde quando a imagem nao e´ localizada, onde
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
 </div>
 
-<br><br>
-
-<details align="center">
-  <summary><b>Clique para mais informações</b></summary>
-
-<br>
-
 <div align="center">
   <b>Minhas redes sociais:</b>
   <br><br>
