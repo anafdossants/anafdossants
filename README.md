@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=d0b0ee&section=header"/>
+esta aparecendo tres daqueles neociosde quando a imagem nao e´ localizada, onde esta isso n ocidgo <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=d0b0ee&section=header"/>
 
 <br>
 
@@ -17,7 +17,10 @@
   <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=A569F7&center=true&multiline=true&width=435&lines=Bem-vindo+ao+meu+perfil!" alt="Typing SVG" /></a>
 </div>
 
-<br>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamillyvm&theme=radical"/>
+</div>
 
 <br>
 
