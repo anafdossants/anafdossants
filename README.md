@@ -7,9 +7,7 @@
 </div>
 
 <div align="center">
-  
-  <b>`プ ロ グ ラ マ`</b>
-  <samp>
+    <samp>
       <br>
       Oi! Me chamo  <b>Ana Santos</b>
   </samp>
