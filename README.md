@@ -24,9 +24,9 @@ esta aparecendo tres daqueles neociosde quando a imagem nao e´ localizada, onde
   
   <br>
 
-  <a href="mailto:anafrancisca1085@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-d0b0ee?style=for-the-badge&logo=gmail&logoColor=fff">
-  </a>
+ <a href="mailto:anafrancisca1085@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-d0b0ee?style=for-the-badge&logo=gmail&logoColor=fff" />
+</a>
   
   <a href="https://www.instagram.com/anaa01_17/">
     <img src="https://img.shields.io/badge/Instagram-d0b0ee?style=for-the-badge&logo=instagram&logoColor=fff">
