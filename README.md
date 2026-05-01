@@ -24,17 +24,19 @@
   
   <br>
 
- <a href="https://mail.google.com/mail/?view=cm&fs=1&to=anafrancisca1085@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-d0b0ee?style=for-the-badge&logo=gmail&logoColor=fff" />
-</a>
+ <div align="center">
 
-<a href="https://www.instagram.com/anaa01_17/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-d0b0ee?style=for-the-badge&logo=instagram&logoColor=fff">
-</a>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kamillyvm&show_icons=true&theme=radical&count_private=true" />
 
-<a href="https://www.linkedin.com/in/ana-francisca-99021b407/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-d0b0ee?style=for-the-badge&logo=linkedin&logoColor=fff">
-</a>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamillyvm&layout=compact&theme=radical" />
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamillyvm&theme=radical" />
+</div>
   <br>
   
 <div align="center">
