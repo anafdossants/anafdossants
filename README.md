@@ -1,4 +1,4 @@
-esta aparecendo tres daqueles neociosde quando a imagem nao e´ localizada, onde esta isso n ocidgo <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=d0b0ee&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=d0b0ee&section=header"/>
 
 <br>
 
@@ -33,7 +33,7 @@ esta aparecendo tres daqueles neociosde quando a imagem nao e´ localizada, onde
   </a>
   
   <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-d0b0ee?style=for-the-badge&logo=linkedin&logoColor=fff">
+    <img src="[https://img.shields.io/badge/LinkedIn-d0b0ee?style=for-the-badge&logo=linkedin&logoColor=fff](https://www.linkedin.com/in/ana-francisca-99021b407/)">
   </a>
 </div>
 
