@@ -13,9 +13,8 @@
   </samp>
 </div>
 
-<!-- ✅ AQUI ESTÁ A CORREÇÃO PRINCIPAL -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=d0b0ee&center=true&vCenter=true&width=435&lines=Oi,+eu+sou+a+Ana+Santos;Estudante+de+ADS;Bem-vinda+ao+meu+perfil+💜" />
+  <img src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A569F7&multiline=true&width=435&lines=Bem-vindo+ao+meu+perfil!%F0%9F%A4%8D" alt="Typing SVG" /></a>
 </div>
 
 <br>
