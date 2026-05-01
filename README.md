@@ -21,7 +21,6 @@
 
 <br>
 
-<!-- REDES SOCIAIS -->
 <div align="center">
   <b>Minhas redes sociais:</b>
   <br><br>
@@ -41,7 +40,6 @@
 
 <br>
 
-<!-- STATS -->
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=anafdossants&show_icons=true&theme=rose_pine" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anafdossants&layout=compact&theme=rose_pine" />
@@ -49,14 +47,12 @@
 
 <br>
 
-<!-- PROFILE SUMMARY -->
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anafdossants&theme=rose_pine" />
 </div>
 
 <br>
 
-<!-- SKILLS -->
 <div align="center" style="display: inline_block">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
@@ -67,7 +63,6 @@
 
 <br>
 
-<!-- VISITAS -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=anafdossants&style=flat-square&color=8f2c5b" />
 </div>
