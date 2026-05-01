@@ -19,7 +19,8 @@ esta aparecendo tres daqueles neociosde quando a imagem nao e´ localizada, onde
 
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamillyvm&theme=radical"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anafdossants
+&theme=radical"/>
 </div>
 
 <br>
@@ -29,14 +30,7 @@ esta aparecendo tres daqueles neociosde quando a imagem nao e´ localizada, onde
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Octave-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg">
 </div>
 
 <br><br>
@@ -50,7 +44,7 @@ esta aparecendo tres daqueles neociosde quando a imagem nao e´ localizada, onde
   <b>Minhas redes sociais:</b>
   <br><br>
 
-  <a href="mailto:kamillymedino2@gmail.com">
+  <a href="mailto:anafrancisca1085@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-d0b0ee?style=for-the-badge&logo=gmail&logoColor=fff">
   </a>
   
