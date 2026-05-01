@@ -22,7 +22,7 @@ esta aparecendo tres daqueles neociosde quando a imagem nao e´ localizada, onde
 <div align="center">
   <b>Minhas redes sociais:</b>
   
-  <br><br>
+  <br>
 
   <a href="mailto:anafrancisca1085@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-d0b0ee?style=for-the-badge&logo=gmail&logoColor=fff">
