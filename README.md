@@ -1,9 +1,9 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=33&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=12,20,24&section=header"/>
 
 <br>
 
-<div align="center">
-  <img align="center" height="150" src="https://png.pngtree.com/png-vector/20240310/ourmid/pngtree-cute-lilac-flower-star-png-image_11923286.png" />
+<div align="center" style="background: linear-gradient(135deg, #f3e8ff, #e0c3fc); padding:25px; border-radius:25px;">
+  <img align="center" height="190" src="https://png.pngtree.com/png-vector/20240310/ourmid/pngtree-cute-lilac-flower-star-png-image_11923286.png" />
 </div>
 
 <div align="center">
@@ -13,22 +13,24 @@
   </samp>
 </div>
 
-<div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=f8418b&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer;Be+welcome!" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=c084fc&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer;Be+welcome!" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/kami_♡-black" />
+  <img src="https://img.shields.io/badge/kami_♡-6b21a8?style=flat&logoColor=fff" />
 </div>
 
 <br><br>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=kamillyvm&rank_icon=github&show_icons=true&theme=radical&count_private=true">
-  <img height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=kamillyvm&layout=compact&theme=radical&count_private=true">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kamillyvm&show_icons=true&theme=radical&count_private=true">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamillyvm&layout=compact&theme=radical">
 </div>
+
+<br>
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamillyvm&theme=radical"/>
@@ -53,38 +55,10 @@
 
 <br><br>
 
-<details align="center">
-  <summary><b>Clique para mais informações</b></summary>
-
-<br>
-
 <div align="center">
-  <b>Minhas redes sociais:</b>
-  <br><br>
-
-  [![Gmail](https://img.shields.io/badge/Gmail-dd4b40?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:kamillymedino2@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-ff3d7c?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/km.medino/)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-007ab9?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/)
+  <img src="https://komarev.com/ghpvc/?username=kamillyvm&style=flat-square&color=a855f7" />
 </div>
 
 <br>
 
-<div align="center">
-  ♡ <a href="https://rentry.co/kamillymedino">rentry</a> ⊹
-  <a href="https://linktr.ee/kamillyvm1">linktr.ee</a> ⊹
-  <a href="https://kamillymedino.carrd.co/">carrd.co</a> ⊹
-  <a href="https://cyber-buttercup-43c.notion.site/">notion</a> ♡
-</div>
-
-<br>
-</details>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kamillyvm&style=flat-square&color=8f2c5b" />
-</div>
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=33&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=12,20,24&section=footer"/>
