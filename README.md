@@ -22,3 +22,77 @@
 <div align="center">
   <img src="https://img.shields.io/badge/kami_♡-d0b0ee?style=flat&logoColor=fff" />
 </div>
+
+<br><br>
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kamillyvm&show_icons=true&theme=radical&count_private=true">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamillyvm&layout=compact&theme=radical">
+</div>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamillyvm&theme=radical"/>
+</div>
+
+<br>
+
+<div align="center" style="display: inline_block">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Octave-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg">
+</div>
+
+<br><br>
+
+<details align="center">
+  <summary><b>Clique para mais informações</b></summary>
+
+<br>
+
+<div align="center">
+  <b>Minhas redes sociais:</b>
+  <br><br>
+
+  <a href="mailto:kamillymedino2@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-d0b0ee?style=for-the-badge&logo=gmail&logoColor=fff">
+  </a>
+  
+  <a href="https://www.instagram.com/km.medino/">
+    <img src="https://img.shields.io/badge/Instagram-d0b0ee?style=for-the-badge&logo=instagram&logoColor=fff">
+  </a>
+  
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-d0b0ee?style=for-the-badge&logo=linkedin&logoColor=fff">
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  ♡ <a href="https://rentry.co/kamillymedino">rentry</a> ⊹
+  <a href="https://linktr.ee/kamillyvm1">linktr.ee</a> ⊹
+  <a href="https://kamillymedino.carrd.co/">carrd.co</a> ⊹
+  <a href="https://cyber-buttercup-43c.notion.site/">notion</a> ♡
+</div>
+
+<br>
+</details>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=kamillyvm&style=flat-square&color=d0b0ee" />
+</div>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=d0b0ee&section=footer"/>
