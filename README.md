@@ -3,7 +3,7 @@
 <br>
 
 <div align="center" style="background-color: rgb(208, 176, 238); padding:25px; border-radius:25px;">
-  <img align="center" height="190" src="https://png.pngtree.com/png-vector/20240310/ourmid/pngtree-cute-lilac-flower-star-png-image_11923286.png" />
+  <img height="190" src="https://png.pngtree.com/png-vector/20240310/ourmid/pngtree-cute-lilac-flower-star-png-image_11923286.png" />
 </div>
 
 <div align="center">
@@ -14,22 +14,33 @@
 </div>
 
 <div align="center">
-  <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=A569F7&center=true&multiline=true&width=435&lines=Bem-vindo+ao+meu+perfil!" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=A569F7&center=true&vCenter=true&width=435&lines=Bem-vindo+ao+meu+perfil!" />
 </div>
 
 <br>
 
 <div align="center">
   <b>Minhas redes sociais:</b>
-  
-  <br>
+  <br><br>
 
- <div align="center">
+  <a href="mailto:anafrancisca1085@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-d0b0ee?style=for-the-badge&logo=gmail&logoColor=fff">
+  </a>
 
+  <a href="https://www.instagram.com/anaa01_17/">
+    <img src="https://img.shields.io/badge/Instagram-d0b0ee?style=for-the-badge&logo=instagram&logoColor=fff">
+  </a>
+
+  <a href="https://www.linkedin.com/in/ana-francisca-99021b407/">
+    <img src="https://img.shields.io/badge/LinkedIn-d0b0ee?style=for-the-badge&logo=linkedin&logoColor=fff">
+  </a>
+</div>
+
+<br>
+
+<div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=kamillyvm&show_icons=true&theme=radical&count_private=true" />
-
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamillyvm&layout=compact&theme=radical" />
-
 </div>
 
 <br>
@@ -37,14 +48,8 @@
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamillyvm&theme=radical" />
 </div>
-  <br>
-  
-<div align="center">
-  <img height="165" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=kamillyvm&rank_icon=github&show_icons=true&theme=radical&count_private=true">
-  <img height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=kamillyvm&layout=compact&theme=radical&count_private=true">
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamillyvm&theme=radical"/>
-</div>      da pra modificar?
-  <br>
+
+<br>
 
 <div align="center" style="display: inline_block">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg">
@@ -53,10 +58,6 @@
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
 </div>
-
-
-<br>
-</details>
 
 <br>
 
