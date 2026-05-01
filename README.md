@@ -41,14 +41,14 @@
 <br>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=anafdossants&show_icons=true&theme=radical" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anafdossants&layout=compact&theme=radical" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=anafdossants&show_icons=true&theme=rose_pine" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anafdossants&layout=compact&theme=rose_pine" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anafdossants&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anafdossants&theme=rose_pine" />
 </div>
 
 <br>
