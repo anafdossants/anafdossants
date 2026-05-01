@@ -53,10 +53,4 @@ esta aparecendo tres daqueles neociosde quando a imagem nao e´ localizada, onde
 
 <br>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kamillyvm&style=flat-square&color=d0b0ee" />
-</div>
-
-<br>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=d0b0ee&section=footer"/>
