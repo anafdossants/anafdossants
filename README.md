@@ -33,7 +33,7 @@
   </a>
   
   <a href="https://www.linkedin.com/">
-    <img src="[https://img.shields.io/badge/LinkedIn-d0b0ee?style=for-the-badge&logo=linkedin&logoColor=fff](https://www.linkedin.com/in/ana-francisca-99021b407/)">
+    <img src="https://www.linkedin.com/in/ana-francisca-99021b407/">
   </a>
 </div>
 
