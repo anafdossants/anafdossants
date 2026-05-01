@@ -25,15 +25,15 @@
   <b>Minhas redes sociais:</b>
   <br><br>
 
-  <a href="mailto:anafrancisca1085@gmail.com" target="_blank">
+  <a href="mailto:anafrancisca1085@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-d0b0ee?style=for-the-badge&logo=gmail&logoColor=fff" />
   </a>
 
-  <a href="https://www.instagram.com/anaa01_17/" target="_blank">
+  <a href="https://www.instagram.com/anaa01_17/">
     <img src="https://img.shields.io/badge/Instagram-d0b0ee?style=for-the-badge&logo=instagram&logoColor=fff">
   </a>
 
-  <a href="https://www.linkedin.com/in/ana-francisca-99021b407/" target="_blank">
+  <a href="https://www.linkedin.com/in/ana-francisca-99021b407/">
     <img src="https://img.shields.io/badge/LinkedIn-d0b0ee?style=for-the-badge&logo=linkedin&logoColor=fff">
   </a>
 </div>
@@ -62,8 +62,12 @@
 </div>
 
 <br>
+
 <div align="center">
-  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=anafdossants&style=flat-square&color=8f2c5b" /></p> 
+  <img src="https://komarev.com/ghpvc/?username=anafdossants&style=flat-square&color=8f2c5b" />
 </div>
+
 <br>
+
+<!-- FOOTER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=d0b0ee&section=footer"/>
