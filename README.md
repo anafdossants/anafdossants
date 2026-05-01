@@ -17,9 +17,7 @@ esta aparecendo tres daqueles neociosde quando a imagem nao e´ localizada, onde
   <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=A569F7&center=true&multiline=true&width=435&lines=Bem-vindo+ao+meu+perfil!" alt="Typing SVG" /></a>
 </div>
 
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamillyvm&theme=radical"/>
-</div>
+<br><br>
 
 <br>
 
