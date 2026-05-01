@@ -14,9 +14,8 @@
 </div>
 
 <div align="center">
-  <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=A569F7&center=true&multiline=true&width=435&lines=Bem-vindo+ao+meu+perfil!" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=A569F7&center=true&vCenter=true&width=435&lines=Bem-vindo+ao+meu+perfil!" />
 </div>
-
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=kamillyvm&show_icons=true&theme=radical&count_private=true">
