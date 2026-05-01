@@ -77,13 +77,6 @@
 
 <br>
 
-<div align="center">
-  ♡ <a href="https://rentry.co/kamillymedino">rentry</a> ⊹
-  <a href="https://linktr.ee/kamillyvm1">linktr.ee</a> ⊹
-  <a href="https://kamillymedino.carrd.co/">carrd.co</a> ⊹
-  <a href="https://cyber-buttercup-43c.notion.site/">notion</a> ♡
-</div>
-
 <br>
 </details>
 
