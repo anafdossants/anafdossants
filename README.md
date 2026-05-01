@@ -21,6 +21,7 @@ esta aparecendo tres daqueles neociosde quando a imagem nao e´ localizada, onde
 
 <div align="center">
   <b>Minhas redes sociais:</b>
+  
   <br><br>
 
   <a href="mailto:anafrancisca1085@gmail.com">
@@ -35,6 +36,8 @@ esta aparecendo tres daqueles neociosde quando a imagem nao e´ localizada, onde
     <img src="https://img.shields.io/badge/LinkedIn-d0b0ee?style=for-the-badge&logo=linkedin&logoColor=fff">
   </a>
 </div>
+
+  <br><br>
 
 <div align="center" style="display: inline_block">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg">
