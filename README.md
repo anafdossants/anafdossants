@@ -40,18 +40,10 @@
   <br>
   
 <div align="center">
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kamillyvm&show_icons=true&theme=radical&count_private=true" />
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamillyvm&layout=compact&theme=radical" />
-
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamillyvm&theme=radical" />
-</div>
+  <img height="165" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=kamillyvm&rank_icon=github&show_icons=true&theme=radical&count_private=true">
+  <img height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=kamillyvm&layout=compact&theme=radical&count_private=true">
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamillyvm&theme=radical"/>
+</div>      da pra modificar?
   <br>
 
 <div align="center" style="display: inline_block">
