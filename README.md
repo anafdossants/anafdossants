@@ -55,7 +55,7 @@
 <details align="center">  
   <summary>
       <samp>
-        <b>More Info</b>
+        <b>Clique para mais informações</b>
       </samp>
   </summary>
   
@@ -68,7 +68,7 @@
 <div align="center">
   <samp>
     <b>
-      Contact me:
+      Minhas redes sociais:
     </b>
   </samp>
   <br>
