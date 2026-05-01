@@ -1,9 +1,9 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=D0B0EE&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=color=ff0000&customColorList=33&section=header"/>
 
 <br>
 
 <div align="center">
-  <img align="center" height="150" src="https://imgur.com/aXIQLp8.png" />
+  <img align="center" height="150" src="pngtree-cute-lilac-flower-star-png-image_11923286.png" />
 </div>
 
 <div align="center">
@@ -104,4 +104,4 @@
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=D0B0EE&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=33&section=footer"/>
