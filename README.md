@@ -23,24 +23,17 @@
   <b>Minhas redes sociais:</b>
   <br><br>
 
- <a href="https://mail.google.com/mail/?view=cm&fs=1&to=anafrancisca1085@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-d0b0ee?style=for-the-badge&logo=gmail&logoColor=fff" />
-</a>
+  <a href="mailto:anafrancisca1085@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-d0b0ee?style=for-the-badge&logo=gmail&logoColor=fff" />
+  </a>
 
-  <a href="https://www.instagram.com/anaa01_17/">
+  <a href="https://www.instagram.com/anaa01_17/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-d0b0ee?style=for-the-badge&logo=instagram&logoColor=fff">
   </a>
 
-  <a href="https://www.linkedin.com/in/ana-francisca-99021b407/">
+  <a href="https://www.linkedin.com/in/ana-francisca-99021b407/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-d0b0ee?style=for-the-badge&logo=linkedin&logoColor=fff">
   </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=anafdossants&show_icons=true&theme=radical&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anafdossants&layout=compact&theme=radical" />
 </div>
 
 <br>
