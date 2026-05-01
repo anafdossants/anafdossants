@@ -13,6 +13,8 @@
   </samp>
 </div>
 
+<br>
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=A569F7&center=true&vCenter=true&width=435&lines=Bem-vindo+ao+meu+perfil!" />
 </div>
@@ -39,7 +41,7 @@
 <br>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=anafdossants&show_icons=true&theme=radical&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=anafdossants&show_icons=true&theme=radical" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anafdossants&layout=compact&theme=radical" />
 </div>
 
