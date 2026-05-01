@@ -21,11 +21,12 @@
 
 <br>
 
+<!-- REDES SOCIAIS -->
 <div align="center">
   <b>Minhas redes sociais:</b>
   <br><br>
 
-  <a href="mailto:anafrancisca1085@gmail.com">
+  <a href="mailto:anafrancisca1085@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-d0b0ee?style=for-the-badge&logo=gmail&logoColor=fff" />
   </a>
 
@@ -40,6 +41,7 @@
 
 <br>
 
+<!-- STATS -->
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=anafdossants&show_icons=true&theme=rose_pine" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anafdossants&layout=compact&theme=rose_pine" />
@@ -47,12 +49,14 @@
 
 <br>
 
+<!-- PROFILE SUMMARY -->
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anafdossants&theme=rose_pine" />
 </div>
 
 <br>
 
+<!-- SKILLS -->
 <div align="center" style="display: inline_block">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
@@ -63,11 +67,11 @@
 
 <br>
 
+<!-- VISITAS -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=anafdossants&style=flat-square&color=8f2c5b" />
 </div>
 
 <br>
 
-<!-- FOOTER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=d0b0ee&section=footer"/>
