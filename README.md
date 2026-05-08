@@ -31,7 +31,7 @@
     <img src="https://img.shields.io/badge/Instagram-d0b0ee?style=for-the-badge&logo=instagram&logoColor=fff">
   </a>
 
-  <a href="https://www.linkedin.com/in/ana-francisca-99021b407/">
+  <a href="https://www.linkedin.com/feed/">
     <img src="https://img.shields.io/badge/LinkedIn-d0b0ee?style=for-the-badge&logo=linkedin&logoColor=fff">
   </a>
 </div>
@@ -52,7 +52,6 @@
 <br>
 
 <div align="center" style="display: inline_block">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
