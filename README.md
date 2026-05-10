@@ -16,13 +16,15 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=A569F7&center=true&vCenter=true&width=435&lines=Bem-vindo+ao+meu+perfil!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=d0b0ee&center=true&vCenter=true&width=435&lines=Bem-vindo+ao+meu+perfil!" />
 </div>
 
 <br>
 
 <div align="center">
   <b>Minhas redes sociais:</b>
+  <br>
+
   <br>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=anafrancisca1085@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-d0b0ee?style=for-the-badge&logo=gmail&logoColor=fff" /> </a>
   
@@ -31,17 +33,12 @@
     <img src="https://img.shields.io/badge/Instagram-d0b0ee?style=for-the-badge&logo=instagram&logoColor=fff">
   </a>
 
-  <a href="https://www.linkedin.com/feed/">
+  <a href="https://www.linkedin.com/in/ana-francisca-99021b407/?skipRedirect=true">
     <img src="https://img.shields.io/badge/LinkedIn-d0b0ee?style=for-the-badge&logo=linkedin&logoColor=fff">
   </a>
 </div>
 
 <br>
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=anafdossants&show_icons=true&theme=rose_pine" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anafdossants&layout=compact&theme=rose_pine" />
-</div>
 
 <br>
 
@@ -51,14 +48,18 @@
 
 <br>
 
+<div align="center"> <b> My Stack:</b>
+    <br></div><br>
+
 <div align="center" style="display: inline_block">
- <img src="https://skillicons.dev/icons?i=vscode,html,css,js,ts,nodejs,react,github&theme=dark" />
+ <img src="https://skillicons.dev/icons?i=vscode,html,css,js,ts,react,github&theme=dark" />
 </div>
 
-<br>
+<br><br>
+
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=anafdossants&style=flat-square&color=8f2c5b" />
+  <img src="https://komarev.com/ghpvc/?username=anafdossants&style=flat-square&color=d0b0ee" />
 </div>
 
 <br>
