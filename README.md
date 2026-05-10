@@ -52,10 +52,7 @@
 <br>
 
 <div align="center" style="display: inline_block">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
+ <img src="https://skillicons.dev/icons?i=vscode,html,css,js,ts,nodejs,react,github&theme=dark" />
 </div>
 
 <br>
